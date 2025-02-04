@@ -3,6 +3,7 @@ print(art.logo)
 
 bidders = {}
 bid_on_going = "yes"
+
 while bid_on_going == "yes":
     name = input("What is your name?: ")
     bid_price = input("What is your bid?: $")
